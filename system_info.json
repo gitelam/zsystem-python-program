@@ -1,0 +1,41 @@
+{
+    "System": "Windows 10 10.0.19045",
+    "Node Name": "DESKTOP-KT5HJPV",
+    "Machine": "AMD64",
+    "Processor (CPU)": "Intel(R) Core(TM) i7-3720QM CPU @ 2.60GHz",
+    "mac-address": "60-67-20-5C-D2-5C",
+    "conection-interface": "Wi-Fi",
+    "ip-address": "192.168.0.13",
+    "Boot Time": "2024/3/30 11:30:27",
+    "Network Information": {
+        "Bytes Sent": 1.3017578125,
+        "Bytes Received": 3.0263671875
+    },
+    "Network Packets": {
+        "Packets Sent": 15,
+        "Packets Received": 12
+    },
+    "Network Errors": {
+        "Errors Sending": 0,
+        "Errors Receiving": 0
+    },
+    "Network Drop": {
+        "Packets Drop Sending": 0,
+        "Packets Drop Receiving": 0
+    },
+    "KBPS Bandwidth": {
+        "Bandwidth Sent": 442,
+        "Bandwidth Received": 1388
+    },
+    "MHz CPU Info": {
+        "Physical cores": 4,
+        "Total cores": 8,
+        "Total CPU Usage": "25.4"
+    },
+    "GB Memory Information": {
+        "Total": "23.56",
+        "Available": "14.42",
+        "Used": "9.13",
+        "Percentage": "38.8"
+    }
+}
